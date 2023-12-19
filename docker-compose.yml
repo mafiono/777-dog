@@ -46,7 +46,7 @@ services:
     volumes:
       - scoobiedoo-pg-data:/var/lib/postgresql/data
   redis:
-    image: library/redis:6.0.10-alpine
+    image: library/redis:6.2.14-alpine
     container_name: scoobiedoo-redis
     restart: always
     volumes:
