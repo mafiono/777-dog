@@ -14,7 +14,7 @@
         "php": "^8.1",
         "ext-pgsql": "*",
         "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^9.21",
+        "laravel/framework": "^10.0",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
         "sentry/sentry-laravel": "^3.1",
