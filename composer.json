@@ -24,7 +24,7 @@
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.0",
-        "phpunit/phpunit": "^9.5.10",
+        "phpunit/phpunit": "^10.0.0",
         "spatie/laravel-ignition": "^1.0",
 	"wainwright-dev/casinodog": "*",
         "wainwright-dev/casinodog-api-client": "*"
