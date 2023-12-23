@@ -25,7 +25,7 @@
         "fakerphp/faker": "^1.9.1",
         "laravel/pint": "^1.0",
         "phpunit/phpunit": "^9.5.10",
-        "spatie/laravel-ignition": "^1.0",
+        "spatie/laravel-ignition": "^2.0",
 	"wainwright-dev/casinodog": "*",
         "wainwright-dev/casinodog-api-client": "*"
     },
